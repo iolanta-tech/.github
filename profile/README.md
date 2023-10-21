@@ -2,5 +2,5 @@
 
 Linked Data Knowledge management workspace.
 
-![](cover.png)
+![](profile/cover.png)
 
